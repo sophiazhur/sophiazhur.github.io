@@ -1,0 +1,70 @@
+.Back{ /* Колір фону сайту  */ 
+	background-color: #E0FFFF;
+}
+#str1{ /* Розміщення, жирність та розмір тексту "Студент", "Група"  */
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 17 pt;
+	font-weight: bold;
+}
+.str1{ /* Ім'я та група студента */
+	text-decoration: underline;
+	font-weight: normal;
+}
+.DataPosition{ /* Розміщення, розмір речення "Вхідні дані" */
+	position: absolute; 
+	margin-top: 20px; 
+	margin-left: 20px;
+	font-size: 16pt;
+}
+.ResultPosition{ /* Розміщення, розмір речення "Результат" */
+	position:  absolute; 
+	margin-top: 171px; 
+	margin-left: 20px;
+	font-size: 16pt;
+}
+#table{ /* id для редагування таблиці вводу даних */
+	position: absolute; 
+	margin-top: 20px; 
+	margin-left: 250px;
+	background-color: #FAFAD2;
+}
+#bottomOne{ /* id для розміщення кнопки зміни кольору */
+	position: absolute; 
+	margin-top: 51px; 
+	margin-left: 680px;
+}
+#bottomToo{ /* id для розміщення кнопки зміни шрифту */
+	position: absolute; 
+	margin-top: 111px; 
+	margin-left: 680px;
+}
+#listOne{ /* id для розміщення речення "Колір" */
+	position: absolute; 
+	margin-left: 550px;
+	font-size: 16pt;
+}
+#listToo{ /* id для розміщення речення "Шрифт" */
+	position: absolute; 
+	margin-top: 60px; 
+	margin-left: 550px;
+	font-size: 16pt;
+}
+.listOne{ /* клас для розміщення випадаючого списку колір шрифту */
+	position: absolute; 
+	margin-top: -15px; 
+}
+.listToo{ /* клас для розміщення випадаючого списку розміру шрифту */
+	position: absolute; 
+	margin-top: -15px; 
+}
+.imageOne{ /* Розміщення та редагування фото Трапеції */
+	position: absolute; 
+	margin-top: 220px; 
+	margin-left: 250px;
+}
+.imageToo{ /* Розміщення та редагування фото формули */
+	position: absolute; 
+	margin-top: 290px; 
+	margin-left: 580px;
+}
